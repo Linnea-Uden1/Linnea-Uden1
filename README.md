@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Linnea-Uden1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning assembly and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
