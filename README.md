@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Linnea-Uden1
-- 👀 I’m interested in web development
+- 👋 Hej, jag heter Linnéa
+- 📖 Jag pluggar till civilingenjör inom Informationsteknik på KTH
+- 👀 Jag är instressead
 - 🌱 I’m currently learning assembly and C
 
 
