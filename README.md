@@ -1,7 +1,7 @@
-- 👋 Hej, jag heter Linnéa
+- 👋 Hej, jag heter Linnea Uden
 - 📖 Jag pluggar till civilingenjör inom Informationsteknik på KTH
-- 👀 Jag är instressead
-- 🌱 I’m currently learning assembly and C
+- 👀 Jag är instressead av programmering
+- 🌱 Just nu håller jag på att fördjupa mig mer inom app utveckling
 
 
 <!---
